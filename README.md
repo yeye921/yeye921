@@ -20,5 +20,9 @@
 <br/><br/>
 
 ## 📈Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeye921&show_icons=true&locale=en&layout=compact" alt="yeye921" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yewon921)](https://solved.ac/yewon921/)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeye921&show_icons=true&locale=en&layout=compact" alt="yeye921" />
+  <a href="https://solved.ac/yewon921">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yewon921" alt="Solved.ac Profile" style="vertical-align:middle; margin-left:12px;" />
+  </a>
+</p>
