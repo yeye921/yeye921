@@ -21,6 +21,4 @@
 
 ## 📈Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeye921&show_icons=true&locale=en&layout=compact" alt="yeye921" /><br/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeye921&show_icons=true&locale=en" alt="yeye921" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeye921&" alt="yeye921" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yewon921)](https://solved.ac/yewon921/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yewon921)](https://solved.ac/yewon921)
